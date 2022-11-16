@@ -1,3 +1,2 @@
-static void SOP(final a){
-        System.out.println(a);
-    }
+                // t1.join();
+                // t2.join();
